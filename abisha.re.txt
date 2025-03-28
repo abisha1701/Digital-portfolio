@@ -1,0 +1,9 @@
+personal details
+
+name:Abisha.A
+date of birth:17.01.2006
+
+education
+
+department:BCA
+university:Bharathidhasan university
